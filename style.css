@@ -71,12 +71,14 @@ table {
 	align-items: center;
 	justify-content: center;
 	background: #EFC94C;
-	height: 92vh;
+	height: 98vh;
+	width: 97vw;
 	flex-direction: column;
 	
 }
 .principal > img {
 	margin-bottom: 30px;
+	width: 300px;
 }
 
 button {
